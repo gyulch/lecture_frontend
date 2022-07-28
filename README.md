@@ -1,20 +1,11 @@
----
+----------------------
 
 WEB FRONTEND TUTORIAL
-*Updated at 2022-07-08*
+2022년 7월 4주동안 진행한
+HTML, CSS, JS, 웹페이지만들기 실습
+강의자료 입니다.
 
----
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [TeamEverywhere](https://www.team-everywhere.com/)* 강의 목록은 추가 될 예정입니다.
-
-- [WEB FRONTEND TUTORIAL](https://gitlab.com/tew_books/frontend_tutorial)
-- [JAVASCRIPT TUTORIAL](https://gitlab.com/tew_books/javascript_tutorial)
-- [NODEJS TUTORIAL](https://gitlab.com/tew_books/webtech_nodejs_tutorial)   
-
-
---------------
+----------------------
 
 > [2주차 css 노션 자료링크](https://steadfast-tarantula-527.notion.site/CSS3-2ca68d178d8f41f9b3a749e8fa2c5004)
 
