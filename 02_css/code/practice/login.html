@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>회원가입</title>
+    <!-- flexbox 를 이용하여 컨텐츠들을 정렬 해봅시다 -->
+    <style>
+      html,
+      body {
+        height: 100%;
+        background-color: rgb(245, 245, 245);
+      }
+      .container {
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px;
+      }
+      form {
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <form>
+        <h3>Login</h3>
+        <div class="input-wrap">
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="이메일을 입력해주세요" />
+
+          <label for="password">Password</label>
+          <input
+            type="password"
+            id="password"
+            placeholder="&#9679;&#9679;&#9679;&#9679;&#9679;&#9679;"
+          />
+        </div>
+        <div class="btn-wrap">
+          <button type="submit">Sign In</button>
+          <button type="button">Sign Up</button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
